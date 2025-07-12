@@ -1,6 +1,6 @@
 {
-  "Changes": [
-    {
+	"Changes": [
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -12,13 +12,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -42,7 +42,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "378",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -57,12 +57,13 @@
 							"(O)378 10",
 						],
 						"7": [
-							"(O)378 15" 
+							"(O)378 15"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -74,13 +75,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -104,7 +105,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "380",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -119,12 +120,13 @@
 							"(O)157 10",
 						],
 						"7": [
-							"(O)153 15" 
+							"(O)153 15"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -136,13 +138,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -166,7 +168,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "62",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -181,12 +183,13 @@
 							"(O)62 3",
 						],
 						"7": [
-							"(O)228 2" 
+							"(O)228 2"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -198,13 +201,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -228,7 +231,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "535",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -243,12 +246,13 @@
 							"(O)390 50",
 						],
 						"7": [
-							"(O)702 3" 
+							"(O)702 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -260,13 +264,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -290,7 +294,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "388",
 							"MinQuantity": 1,
 							"MaxQuantity": 5
@@ -305,12 +309,13 @@
 							"(O)382 5",
 						],
 						"7": [
-							"(O)334 1" 
+							"(O)334 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -322,13 +327,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -352,7 +357,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "153",
 							"MinQuantity": 3,
 							"MaxQuantity": 9
@@ -367,11 +372,13 @@
 							"(O)78 3",
 						],
 						"7": [
-							"(O)259  10" 
+							"(O)259  10"
 						],
 					},
 				},
-    {
+			}
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -383,13 +390,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -413,7 +420,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "68",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -428,12 +435,13 @@
 							"(O)336 2",
 						],
 						"7": [
-							"(O)68 2" 
+							"(O)68 2"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -445,13 +453,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -475,7 +483,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "157",
 							"MinQuantity": 1,
 							"MaxQuantity": 10
@@ -490,12 +498,13 @@
 							"(O)78 5",
 						],
 						"7": [
-							"(O)941 5" 
+							"(O)941 5"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -507,13 +516,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -537,7 +546,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "157",
 							"MinQuantity": 1,
 							"MaxQuantity": 10
@@ -552,12 +561,13 @@
 							"(O)414 2",
 						],
 						"7": [
-							"(O)84 3" 
+							"(O)84 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -569,13 +579,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -599,7 +609,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "577",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -614,12 +624,13 @@
 							"(O)338 20",
 						],
 						"7": [
-							"(O)337 1" 
+							"(O)337 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -631,13 +642,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -661,7 +672,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "709",
 							"MinQuantity": 1,
 							"MaxQuantity": 10
@@ -676,12 +687,13 @@
 							"(O)78 5",
 						],
 						"7": [
-							"(O)82 1" 
+							"(O)82 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -693,13 +705,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -723,7 +735,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "84",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -738,12 +750,13 @@
 							"(O)418 2",
 						],
 						"7": [
-							"(O)84 3" 
+							"(O)84 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -755,13 +768,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -785,7 +798,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "563",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -800,12 +813,13 @@
 							"(O)82 2",
 						],
 						"7": [
-							"(O)537 3" 
+							"(O)537 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -817,13 +831,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -847,7 +861,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "372",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -862,12 +876,13 @@
 							"(O)129 2",
 						],
 						"7": [
-							"(O)129 4" 
+							"(O)129 4"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -879,13 +894,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -909,7 +924,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "392",
 							"MinQuantity": 1,
 							"MaxQuantity": 1
@@ -924,12 +939,13 @@
 							"(O)372 2",
 						],
 						"7": [
-							"(O)392  1" 
+							"(O)392  1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -941,13 +957,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -971,7 +987,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "774",
 							"MinQuantity": 5,
 							"MaxQuantity": 14
@@ -986,12 +1002,13 @@
 							"(O)393 3",
 						],
 						"7": [
-							"(O)614  2" 
+							"(O)614  2"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1003,13 +1020,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1033,7 +1050,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "216",
 							"MinQuantity": 1,
 							"MaxQuantity": 1
@@ -1048,12 +1065,13 @@
 							"(O)229 2",
 						],
 						"7": [
-							"(O)223 1" 
+							"(O)223 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1065,13 +1083,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1095,7 +1113,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "531",
 							"MinQuantity": 1,
 							"MaxQuantity": 1
@@ -1110,12 +1128,13 @@
 							"(O)72 2",
 						],
 						"7": [
-							"(O)130  2" 
+							"(O)130  2"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1127,13 +1146,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1157,7 +1176,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "152",
 							"MinQuantity": 3,
 							"MaxQuantity": 9
@@ -1172,12 +1191,13 @@
 							"(O)393 3",
 						],
 						"7": [
-							"(O)397  3" 
+							"(O)397  3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1189,13 +1209,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-					        {         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1219,7 +1239,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "380",
 							"MinQuantity": 3,
 							"MaxQuantity": 6
@@ -1234,12 +1254,13 @@
 							"(O)80 3",
 						],
 						"7": [
-							"(O)84  2" 
+							"(O)84  2"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1251,13 +1272,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.2,
@@ -1281,7 +1302,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "86",
 							"MinQuantity": 3,
 							"MaxQuantity": 4
@@ -1296,12 +1317,13 @@
 							"(O)153 3",
 						],
 						"7": [
-							"(O)178  40" 
+							"(O)178  40"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1313,13 +1335,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1343,7 +1365,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "684",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
@@ -1358,12 +1380,13 @@
 							"(O)82 3",
 						],
 						"7": [
-							"(O)874 5" 
+							"(O)874 5"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1375,13 +1398,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1405,7 +1428,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "628",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1420,12 +1443,13 @@
 							"(O)636 2",
 						],
 						"7": [
-							"(O)636 3" 
+							"(O)636 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1437,13 +1461,13 @@
 					],
 					"SpawnTime": 5,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1467,7 +1491,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "394",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1482,12 +1506,13 @@
 							"(O)131 3",
 						],
 						"7": [
-							"(O)72 3" 
+							"(O)72 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1499,13 +1524,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1529,7 +1554,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "635",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1544,12 +1569,13 @@
 							"(O)131 3",
 						],
 						"7": [
-							"(O)336 3" 
+							"(O)336 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1561,13 +1587,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1591,7 +1617,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1606,12 +1632,13 @@
 							"(O)338 3",
 						],
 						"7": [
-							"(O)874 5" 
+							"(O)874 5"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1623,13 +1650,13 @@
 					],
 					"SpawnTime": 4,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1653,7 +1680,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "774",
 							"MinQuantity": 3,
 							"MaxQuantity": 9
@@ -1668,12 +1695,13 @@
 							"(O)90 4",
 						],
 						"7": [
-							"(O)614 1" 
+							"(O)614 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1685,13 +1713,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1715,7 +1743,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "684",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
@@ -1730,12 +1758,13 @@
 							"(O)684 10",
 						],
 						"7": [
-							"(O)874 3" 
+							"(O)874 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1747,13 +1776,13 @@
 					],
 					"SpawnTime": 4,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1777,7 +1806,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "403",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1792,12 +1821,13 @@
 							"(O)709 13",
 						],
 						"7": [
-							"(O)724 1" 
+							"(O)724 1"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1809,13 +1839,13 @@
 					],
 					"SpawnTime": 4,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1839,7 +1869,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "688",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1854,12 +1884,13 @@
 							"(O)228 3",
 						],
 						"7": [
-							"(O)136 3" 
+							"(O)136 3"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1871,13 +1902,13 @@
 					],
 					"SpawnTime": 4,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.2,
@@ -1901,7 +1932,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "766",
 							"MinQuantity": 5,
 							"MaxQuantity": 13
@@ -1916,12 +1947,13 @@
 							"(O)941 30",
 						],
 						"7": [
-							"(O)259 5" 
+							"(O)259 5"
 						],
 					},
 				},
-          },
-    {
+			},
+		},
+		{
 			"LogName": "Fish Pond Data",
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
@@ -1933,13 +1965,13 @@
 					],
 					"SpawnTime": 3,
 					"ProducedItems": [
-						{         /*DONT DO ANYTHING*/
+						{ /*DONT DO ANYTHING*/
 							"RequiredPopulation": 10,
 							"Chance": 0.4,
-							"ItemID": "812", 
+							"ItemID": "812",
 							"MinQuantity": 1,
 							"MaxQuantity": 3
-						},         /*DONT DO ANYTHING*/
+						}, /*DONT DO ANYTHING*/
 						{
 							"RequiredPopulation": 10,
 							"Chance": 0.3,
@@ -1963,7 +1995,7 @@
 						},
 						{
 							"RequiredPopulation": 3,
-							"Chance": 0,4, 
+							"Chance": 0.4,
 							"ItemID": "334",
 							"MinQuantity": 1,
 							"MaxQuantity": 2
@@ -1982,6 +2014,7 @@
 						],
 					},
 				},
-          },
-]
+			},
+		}
+	]
 }
